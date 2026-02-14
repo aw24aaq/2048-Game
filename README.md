@@ -11,3 +11,8 @@ Project TimeFrame - 10/02/2026 - 15/02/2026
  - After each move, a new tile with a value of 2 or 4 will appear in a random empty spot on the board.
  - The game ends when there are no more empty spots on the board and no further merges are possible. You win if you create a 2048 tile, otherwise you lose.
 
+## Images
+
+<img width="618" height="739" alt="Screenshot 2026-02-14 024726" src="https://github.com/user-attachments/assets/9d4c78ad-8087-45b2-9183-56bdeac0bd16" />
+
+<img width="606" height="721" alt="Screenshot 2026-02-14 024750" src="https://github.com/user-attachments/assets/2f6030d9-86a2-4245-b7e3-2268588c4bb3" />
