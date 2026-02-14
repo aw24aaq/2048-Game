@@ -1,4 +1,5 @@
-# 2048- Game
+# 2048 - Game
+Project TimeFrame - 10/02/2026 - 15/02/2026
 ## How to play 2048
 
 - The game is played on a 4x4 grid filled with numbered tiles. Your goal is to combine these tiles to create a tile with the number 2048
