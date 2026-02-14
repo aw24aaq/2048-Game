@@ -19,4 +19,4 @@ Project TimeFrame - 10/02/2026 - 15/02/2026 - Python
 
 # How to Run
 
-- To run the game, open up the file called #### 2048 Game ####.py in your preferred editior like vscode or Thonny.
+- To run the game, open up the file called ##### 2048 Game #####.py in your preferred editior like vscode or Thonny.
