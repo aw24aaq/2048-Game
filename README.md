@@ -1,7 +1,7 @@
 # 2048- Game
 ## How to play 2048
 
-The game is played on a 4x4 grid filled with numbered tiles. Your goal is to combine these tiles to create a tile with the number 2048
+- The game is played on a 4x4 grid filled with numbered tiles. Your goal is to combine these tiles to create a tile with the number 2048
 
 ## How it works
 
