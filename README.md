@@ -16,3 +16,7 @@ Project TimeFrame - 10/02/2026 - 15/02/2026 - Python
 <img width="300" height="300" alt="Screenshot 2026-02-14 024726" src="https://github.com/user-attachments/assets/9d4c78ad-8087-45b2-9183-56bdeac0bd16" />
 
 <img width="300" height="300" alt="Screenshot 2026-02-14 024750" src="https://github.com/user-attachments/assets/2f6030d9-86a2-4245-b7e3-2268588c4bb3" />
+
+# How to Run
+
+- To run the game, open up the file called #### 2048 Game ####.py in your preferred editior like vscode or Thonny.
